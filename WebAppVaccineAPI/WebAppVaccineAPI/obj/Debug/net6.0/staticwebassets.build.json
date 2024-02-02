@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vpk2LDWlPJCxnUua57rKhPWQm4w+D0RPQGdwnHddzXo=",
+  "Source": "WebAppVaccineAPI",
+  "BasePath": "_content/WebAppVaccineAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
